@@ -52,6 +52,7 @@ Página de erro
 - Acesse a aplicação pelo seu navegador através do link gerado.
 
 ## Link para acessar aplicação
+https://ian-augusto-ian-augusto-pokedex-api.vercel.app/
 
 ```bash
 npm install meu-pacote
