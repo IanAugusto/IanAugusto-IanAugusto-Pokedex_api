@@ -11,7 +11,7 @@ Este site fornece uma interface API RESTful para objetos altamente detalhados co
 ## Controle de versão 
 
 - Repositório Git: https://github.com/IanAugusto/Pokedex_api.git <br/>
-- Último Commit: atualizando git 
+- Último Commit: add novas pastas
 
 ## Instalação
 
