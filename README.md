@@ -25,16 +25,15 @@ Instruções sobre como instalar o projeto e suas dependências.
 
 ## Imagens da aplicação
 Página inicial onde é possível pesquisar por um pokemon
-![Home sem preechimento](Home_vazia.png)
+![Home_vazia](https://github.com/IanAugusto/IanAugusto-IanAugusto-Pokedex_api/assets/99494598/1c1f42f0-db9a-4acb-915f-0b6730b43289)
 
 Página após pesquisa feita
-![Home preenchida](Home_cheia.png)
-
+![Home_cheia](https://github.com/IanAugusto/IanAugusto-IanAugusto-Pokedex_api/assets/99494598/20cb5013-92cd-40b1-873d-fe3bbf2c9f71)
 Página sobre
-![Página sobre](Sobre.png)
+![Sobre](https://github.com/IanAugusto/IanAugusto-IanAugusto-Pokedex_api/assets/99494598/0fff1365-23a6-40f3-8733-f561d8d15c06)
 
 Página de erro
-![Página erro](Erro.png)
+![Erro](https://github.com/IanAugusto/IanAugusto-IanAugusto-Pokedex_api/assets/99494598/73ca2c69-5855-43fc-ae02-606ab8a3b4e9)
 
 ## Tecnologias Utilizadas
 
