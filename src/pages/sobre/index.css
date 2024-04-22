@@ -1,0 +1,43 @@
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+/* Estilo para centralizar o conteúdo */
+.explicacao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Estilo para cada caixa de texto */
+  .caixa-texto {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 25px;
+    max-width: 900px;
+  }
+  /* Estilo para os links */
+/* Estilo para os links/caixas */
+.link {
+    display: inline-block; /* Exibir como bloco para poder definir largura e altura */
+    padding: 10px 20px; /* Espaçamento interno */
+    background-color: #007bff; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    text-decoration: none; /* Remover sublinhado padrão */
+    border-radius: 5px; /* Arredondamento dos cantos */
+    transition: background-color 0.3s ease; /* Transição suave da cor de fundo */
+  }
+  
+  /* Estilo para os links/caixas ao passar o mouse */
+  .link:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+  }
+  
+  
